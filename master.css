@@ -126,3 +126,12 @@ body{
     color:rgb(75, 75, 102);
     text-decoration: none; 
   }
+.para8{
+      font-size: 0.75rem;
+  }
+  .link:hover{
+      color:teal;
+  }
+  .link2:hover{
+    color:teal;
+  }
